@@ -30,29 +30,20 @@ Contributed to digital transformation and citizen convenience, reducing in-perso
 - 📌 Short description: oDeveloped a web-based platform for citizens to securely report crimes and track resolution status.
 Implemented core features including authentication, real-time notifications, and an efficient dashboard for law enforcement.
 Ensured robust data handling and user privacy.
-- 🔗 Demo: github.com/mrGaurav154/Report-Crime-2-Cops
+- 🔗 Demo: https://github.com/mrGaurav154/Report-Crime-2-Cops
 
 ### Screen Pass - Web-Based Movie Ticket Booking System
  - 📌 Short description : Designed and developed a responsive online movie ticket booking system enabling real-time seat selection and user input validation.
 Implemented a Node.js backend to handle booking logic and interact with a MySQL database for seamless data management.
 oUtilized JavaScript for dynamic client-side interactions and booking confirmation notifications.
 Built an intuitive front-end with HTML5 and CSS3 to ensure browser compatibility and enhance user experience
-- 🔗 Demo : github.com/mrGaurav154/ScreenPass
+- 🔗 Demo : https://github.com/mrGaurav154/ScreenPass
 
-
-## GitHub Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrGaurav154&show_icons=true&theme=tokyonight" alt="mrGaurav154's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrGaurav154&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrGaurav154&theme=tokyonight)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mrGaurav154.mrGaurav154)
 
 ## Connect with me
 - LinkedIn: www.linkedin.com/in/gaurav-pawar-673597323
 - Gmail : mr.gaurav150404@gmail.com
-- Instagram : g_pawar154
+- Instagram : [g_pawar154](https://www.instagram.com/g_pawar154?utm_source=qr)
 ---
 
 Thanks for visiting — feel free to say hi! 👋
