@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋 I'm Gaurav (mrGaurav154)
 
-<!--
-**mrGaurav154/mrGaurav154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Portfolio-website-blue?style=flat&logo=google-chrome)](https://your-portfolio.example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle) [![Mail](https://img.shields.io/badge/Email-your%40mail.com-red?style=flat&logo=gmail)](mailto:your@mail.com)
 
-Here are some ideas to get you started:
+## About Me
+💻 Computer Engineering Student | Cybersecurity & Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Detail-oriented Computer Engineering student with a strong foundation in cybersecurity and web development. Passionate about building simple, effective digital solutions such as online reporting platforms and chatbots that enhance public services. Actively seeking entry-level opportunities to learn, contribute, and grow as a cybersecurity or full-stack developer, while strengthening technical and problem-solving skills through real-world experience.
+
+- 🔭 I’m currently working in: Akola Police CyberCell as a Intern.
+- 📫 Reach me: mr.gaurav150404@mail.com
+- ⚡ Fun fact: I love for solving mindmapping games.
+
+## Skills
+- Languages: JavaScript, TypeScript, Python, SQL
+- Frontend: React, Next.js, CSS / Tailwind
+- Backend: Node.js, Express, PostgreSQL, Prisma
+- Tools: Git, Docker, GitHub Actions, Vercel
+
+## Featured Projects
+### Akola Police WhatsApp Chatbot — Unified Citizen Services Platform
+- 📌 Short description: Developed a rule-based WhatsApp chatbot for the Akola Police Department, 	exclusively for citizens of Akola District to access multiple public and police 	services through a single platform.
+Integrated Meta’s official WhatsApp API with MongoDB Atlas to securely handle user inputs, store service logs, and deliver instant responses.
+Implemented quick reply buttons and structured message menus, enabling users to easily navigate services like FIR status, lost item reports, traffic fine details, and emergency contacts.
+Focused on user-friendly design and reliability, ensuring 24/7 availability with 	smooth message handling and minimal latency.
+Contributed to digital transformation and citizen convenience, reducing in-person visits and streamlining service accessibility for Akola residents..
+- 🔗 Demo: https://api.whatsapp.com/send/?phone=919403553117&text=Hi
+
+### Report-Crime-2-Cops — Online Crime Reporting Platform
+- 📌 Short description: oDeveloped a web-based platform for citizens to securely report crimes and track resolution status.
+Implemented core features including authentication, real-time notifications, and an efficient dashboard for law enforcement.
+Ensured robust data handling and user privacy.
+- 🔗 Demo: github.com/mrGaurav154/Report-Crime-2-Cops
+
+### Screen Pass - Web-Based Movie Ticket Booking System
+ - 📌 Short description : Designed and developed a responsive online movie ticket booking system enabling real-time seat selection and user input validation.
+Implemented a Node.js backend to handle booking logic and interact with a MySQL database for seamless data management.
+oUtilized JavaScript for dynamic client-side interactions and booking confirmation notifications.
+Built an intuitive front-end with HTML5 and CSS3 to ensure browser compatibility and enhance user experience
+- 🔗 Demo : github.com/mrGaurav154/ScreenPass
+
+
+## GitHub Stats
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrGaurav154&show_icons=true&theme=tokyonight" alt="mrGaurav154's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrGaurav154&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrGaurav154&theme=tokyonight)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mrGaurav154.mrGaurav154)
+
+## Connect with me
+- LinkedIn: www.linkedin.com/in/gaurav-pawar-673597323
+- Gmail : mr.gaurav150404@gmail.com
+- Instagram : g_pawar154
+---
+
+Thanks for visiting — feel free to say hi! 👋
