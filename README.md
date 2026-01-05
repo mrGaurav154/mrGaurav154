@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gaurav (mrGaurav154)
 
-[![Website](https://img.shields.io/badge/Portfolio-website-blue?style=flat&logo=google-chrome)](https://your-portfolio.example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle) [![Mail](https://img.shields.io/badge/Email-your%40mail.com-red?style=flat&logo=gmail)](mailto:your@mail.com)
+[![Website](https://img.shields.io/badge/Portfolio-website-blue?style=flat&logo=google-chrome)](https://mrgaurav154.github.io/Portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-pawar-673597323) [![Instagram](https://img.shields.io/badge/Instagram-@g_pawar154-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/g_pawar154) [![Mail](https://img.shields.io/badge/Email-your%40mail.com-red?style=flat&logo=gmail)](mailto:mr.gaurav150404@mail.com)
 
 ## About Me
 💻 Computer Engineering Student | Cybersecurity & Web Development
