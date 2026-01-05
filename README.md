@@ -40,10 +40,12 @@ Built an intuitive front-end with HTML5 and CSS3 to ensure browser compatibility
 - 🔗 Demo : https://github.com/mrGaurav154/ScreenPass
 
 
-## Connect with me
-- LinkedIn: www.linkedin.com/in/gaurav-pawar-673597323
-- Gmail : mr.gaurav150404@gmail.com
-- Instagram : [g_pawar154](https://www.instagram.com/g_pawar154?utm_source=qr)
----
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Pawar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-pawar-673597323)
+
+[![Gmail](https://img.shields.io/badge/Gmail-mr.gaurav150404@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mr.gaurav150404@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-g_pawar154-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/g_pawar154)
 
 Thanks for visiting — feel free to say hi! 👋
